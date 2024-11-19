@@ -1,2 +1,4 @@
-# ejercicios-c-
-# ejercicios-c-
+# Ejercicios-c#
+
+
+Ejercicios de la secundario Argentina. 
